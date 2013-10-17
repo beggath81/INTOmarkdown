@@ -42,3 +42,4 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 ## 5. Unnið með Git (2. hluti)
 
 Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Það gekk ekki að opna readme.md í git bash. Ég fékk leyfi til að breyta skjalinu inn í github. Það gekk vel.
