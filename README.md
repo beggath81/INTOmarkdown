@@ -12,7 +12,7 @@ Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið i
 
 Það gekk ekki að setja upp Ubuntu eða aðrar útgáfur af Linux. Ég fekk bara tóman svartan skjá eða einhverja villu í Ubuntu og Mint opnaðist bara ekki.
 
-![Ubuntu að villumelda] (c:\users\lenovo\desktop\ubuntu.png "Ubuntu að villumelda")
+![Ubuntu að villumelda] (c:\users\lenovo\INTOmarkdown\ubuntu.png "Ubuntu að villumelda")
 
 ## 2. Uppsetning á vim && git
 
