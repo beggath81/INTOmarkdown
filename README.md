@@ -45,4 +45,5 @@ Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu lið
 
 Það gekk ekki að opna readme.md í git bash. Ég fékk leyfi til að breyta skjalinu inn í github.
 Allt gekk vel nema ég fæ myndina ekki til að sjást. Setti myndina í INTOmarkdown möppuna og gerði git add skipun, 
-síðan git commit skipun og síðan git push skipun. En það virðist ekki hafa virkað.
+síðan git commit skipun og síðan git push skipun. En það virðist ekki hafa virkað. Prófaði líka bara git commit og 
+svo git push eins og mér var leiðbeint af kennara en ekkert gerðist.
